@@ -1,4 +1,4 @@
-hook = "You are walking through the woods with the Queen's precious cargo. You hear a loud noise in front of you. What do you do?\n" \
+hook = "You are walking through the woods with the Queen's precious cargo. You hear a loud noise in front of you. \n What do you do?\n" \
         "A. Run and hide \n" "B. Turn around couragously \n" "C. Run towards the noise \n"
 
 decision_a = "You hide behind a tree and fall into a reality warping hole. You land on Tatooine. What do you do? \n" \
