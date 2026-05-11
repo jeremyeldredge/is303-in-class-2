@@ -34,3 +34,10 @@ elif player_level >= 11:
 recommended_quest = class_types[player_class][quest_level]
 
 print(f"You should do this quest: {recommended_quest}.")
+
+users_class_quests = class_types[player_class]
+print(users_class_quests)
+recommended_quest = users_class_quests[quest_level]
+print(recommended_quest)
+
+
